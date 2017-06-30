@@ -1,0 +1,8 @@
+{
+  "name": "simple-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:abarinoff/simple-react-app.git",
+  "author": "abarinoff <abarinoff@gmail.com>",
+  "license": "MIT"
+}
