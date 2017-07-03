@@ -1,3 +1,5 @@
+## Setup
+
 ### Setting up and initializing Yarn
 
     sudo npm install -g yarn
@@ -16,3 +18,16 @@
 
     yarn add react react-dom
     
+### Adding webpack dev server for easier front-end testing
+
+    yarn add --dev webpack-dev-server 
+
+## Build
+
+### To build resulting bundle
+
+    yarn run build
+
+### To run front-end application in dev mode
+
+    yarn run dev
